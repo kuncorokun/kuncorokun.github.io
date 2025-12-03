@@ -3,4 +3,17 @@ layout: post
 title:  "[Gallery] Holiday to Japan 2023"
 ---
 
-hello
+# Kawaguchiko
+![kawaguchiko](/assets/images/kawaguchiko.jpg)
+
+It was windy that day. It also cloudy, but I like that I can see the lake and mount fuji clear enough
+
+# Hoto
+![hoto](/assets/images/hoto.jpg)
+
+I eat this when arrived at Kawaguchiko Station. The portion is really HUGE, but it fills belly until night and warm my body
+
+# Manga Museum
+![manga_museum](/assets/images/manga_museum.jpg)
+
+This is one of the room from Tokiwaso manga museum. This museum recreated from the same house that was used by mangaka in the past to gather and create mangas.
